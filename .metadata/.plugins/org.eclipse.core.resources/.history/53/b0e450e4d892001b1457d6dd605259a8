@@ -1,0 +1,18 @@
+package com.zafar.main;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+
+import com.zafar.Vo.StudentVo;
+
+public class SerializationOperation {
+	public static void main(String[] args) throws IOException {
+		StudentVo studentVo=new StudentVo(1,"Zafar imam","new delhi");
+		FileOutputStream fileOutputStream=new FileOutputStream("student.ser");
+		ObjectOutputStream objectOutputStream=new ObjectOutputStream(fileOutputStream);
+		objectOutputStream.writeObject(studentVo);
+	}
+
+}

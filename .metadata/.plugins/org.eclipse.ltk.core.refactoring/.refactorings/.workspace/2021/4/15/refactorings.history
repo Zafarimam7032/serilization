@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;InheritanceSerialization&apos; to &apos;InheritanceSerialization(parent_child)&apos;&#x0D;&#x0A;- Original element: &apos;InheritanceSerialization&apos;&#x0D;&#x0A;- Renamed element: &apos;InheritanceSerialization&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;InheritanceSerialization&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=InheritanceSerialization" name="InheritanceSerialization(parent_child)" references="true" stamp="1617525877952" version="1.0"/>
+</session>

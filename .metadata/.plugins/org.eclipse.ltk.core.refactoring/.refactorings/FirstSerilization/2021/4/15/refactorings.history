@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.zafar.Vo&apos; to &apos;InheritanceSerialization/src&apos;&#x0D;&#x0A;- Original project: &apos;FirstSerilization&apos;&#x0D;&#x0A;- Destination element: &apos;InheritanceSerialization/src&apos;&#x0D;&#x0A;- Original element: &apos;FirstSerilization/src/com.zafar.Vo&apos;" description="Copy package" destination="=InheritanceSerialization/src" element1="/src&lt;com.zafar.Vo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1617524776933" version="1.0"/>
+</session>

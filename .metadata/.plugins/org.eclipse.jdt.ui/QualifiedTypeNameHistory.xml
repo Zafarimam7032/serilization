@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.zafar.main.SerilizationController"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.zafar.serilization.SerilizationOperation"/>
+    <fullyQualifiedTypeName name="com.zafar.userinfo.UserInfo"/>
+    <fullyQualifiedTypeName name="com.grwt.vo.TeacherVo"/>
+    <fullyQualifiedTypeName name="com.grwt.vo.StudentVo"/>
+    <fullyQualifiedTypeName name="com.zafar.Vo.TeacherVo"/>
+    <fullyQualifiedTypeName name="com.zafar.Vo.StudentVo"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="com.grwts.vo.StudentVo"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="java.io.Externalizable"/>
+</qualifiedTypeNameHistroy>

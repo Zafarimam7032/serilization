@@ -1,0 +1,10 @@
+package com.zafar.main;
+
+;
+
+public class SerializationOperation {
+	public static void main(String[] args) {
+		StudentVo studentVo=new StudentVo();
+	}
+
+}

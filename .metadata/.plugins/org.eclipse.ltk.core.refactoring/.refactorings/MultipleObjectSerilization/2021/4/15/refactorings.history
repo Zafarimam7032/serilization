@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TeacherVo.java&apos; to &apos;InheritanceSerialization/src/com.zafar.Vo&apos;&#x0D;&#x0A;- Original project: &apos;MultipleObjectSerilization&apos;&#x0D;&#x0A;- Destination element: &apos;InheritanceSerialization/src/com.zafar.Vo&apos;&#x0D;&#x0A;- Original element: &apos;com.grwt.vo.TeacherVo.java&apos;" description="Copy compilation unit" destination="=InheritanceSerialization/src&lt;com.zafar.Vo" element1="/src&lt;com.grwt.vo{TeacherVo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617524833953" units="1" version="1.0"/>
+</session>
